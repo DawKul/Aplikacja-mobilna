@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Aplikacja_Treningowa.Strony.Pulpit"
+            Title="Pulpit"
+            xmlns:android="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.AndroidSpecific;assembly=Microsoft.Maui.Controls"
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            SelectedTabColor="black"
+            BarBackgroundColor="grey">
+    <ContentPage IconImageSource="home.png">
+        <ContentPage.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="white" Offset="0.0" />
+                <GradientStop Color="DarkGreen" Offset="1.0" />
+            </LinearGradientBrush>
+        </ContentPage.Background>
+        <Border Style="{StaticResource Border.Page}">
+            <ScrollView>
+                <Grid RowDefinitions="Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto">
+                    <Label Grid.Row="1"/>
+                    <Label Grid.Row="2"/>
+                    <Label Grid.Row="3"/>
+                    <Label Grid.Row="4"/>
+                    <Label Grid.Row="5"/>
+                    <Label Grid.Row="6"/>
+                    <Label Grid.Row="7"/>
+                    <Label Grid.Row="8"/>
+                    <Label Grid.Row="9"/>
+                    <Label Grid.Row="10"/>
+                    <Label Grid.Row="11"/>
+                    <Label Grid.Row="12"/>
+                    <Label Grid.Row="13"/>
+                    <Label Grid.Row="14"/>
+                    <Label Grid.Row="15"/>
+                    <Label Grid.Row="16"/>
+                    <Label Grid.Row="17"/>
+                    <Label Grid.Row="18"/>
+                    <Label Grid.Row="19"/>
+                    <Label Grid.Row="20"/>
+                    <Label Grid.Row="21"/>
+                    <Label Grid.Row="22"/>
+                    <Label Grid.Row="23"/>
+                    <Label Grid.Row="24"/>
+                    <Label Grid.Row="25"/>
+                    <Label Grid.Row="26"/>
+                    <Label Grid.Row="27"/>
+                    <Label Grid.Row="28"/>
+                    <Label Grid.Row="29"/>
+                    <Label Grid.Row="30"/>
+                    <Button Grid.Row="31" Text="Start!"
+                VerticalOptions="Center"
+                HorizontalOptions="Fill"/>
+                </Grid>
+            </ScrollView>
+        </Border>
+    </ContentPage>
+
+    <ContentPage IconImageSource="user.png">
+        <Label Text="Profil" HorizontalTextAlignment="Center" VerticalTextAlignment="Center">
+        </Label>
+        <ContentPage.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="white" Offset="0.0" />
+                <GradientStop Color="DarkGreen" Offset="1.0" />
+            </LinearGradientBrush>
+        </ContentPage.Background>
+    </ContentPage>
+
+    <ContentPage IconImageSource="settings.png">
+        <Label Text="Ustawienia" HorizontalTextAlignment="Center" VerticalTextAlignment="Center">
+        </Label>
+        <ContentPage.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="white" Offset="0.0" />
+                <GradientStop Color="DarkGreen" Offset="1.0" />
+            </LinearGradientBrush>
+        </ContentPage.Background>
+    </ContentPage>
+</TabbedPage>
