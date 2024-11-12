@@ -1,10 +1,10 @@
 namespace Aplikacja_Treningowa.Strony;
 using Strony;
 
-public partial class Pulpit : TabbedPage
+public partial class Strona1 : ContentPage
 {
-	public Pulpit()
+	public Strona1()
 	{
 		InitializeComponent();
-    }
+	}
 }
