@@ -1,0 +1,239 @@
+Plan 1:
+Pajacyki 20s
+Pompki x8
+Szerokie pompki x8
+Przysiady x10
+Deska 20s
+Brzuszki x25
+
+Plan 2:
+Bieg w miejscu 30s
+Pompki diamentowe x8
+Przysiady z wyskokiem x10
+Plank bokiem 15s na stronę
+Russian twists x20
+Wykroki x12
+
+Plan 3:
+Skip A 25s
+Pompki klasyczne x10
+Przysiady x15
+Deska 25s
+Unoszenie nóg w leżeniu x15
+Pajacyki 30s
+
+Plan 4:
+Bieg w miejscu z wysokim unoszeniem kolan 20s
+Pompki na szerokość barków x8
+Przysiady na jednej nodze x5 na stronę
+Deska z unoszeniem nóg 20s
+Scyzoryki x20
+Wykroki boczne x10 na stronę
+
+Plan 5:
+Marsz w miejscu 30s
+Pompki tricepsowe x6
+Przysiady sumo x12
+Deska z unoszeniem ręki 15s na stronę
+Russian twists x30
+Wykroki chodzone x12 na stronę
+
+Plan 6:
+Pajacyki 30s
+Pompki klasyczne x10
+Przysiady sumo x12
+Deska z unoszeniem nóg 20s
+Brzuszki klasyczne x20
+Wykroki boczne x12 na stronę
+
+Plan 7:
+Marsz w miejscu 20s
+Pompki diamentowe x6
+Przysiady z wyskokiem x8
+Deska bokiem 15s na stronę
+Russian twists x25
+Wykroki chodzone x10 na stronę
+
+Plan 8:
+Bieg w miejscu 25s
+Pompki na szerokość barków x8
+Przysiady x10
+Deska 20s
+Unoszenie nóg w leżeniu x15
+Pajacyki 20s
+
+Plan 9:
+Skip B 20s
+Pompki tricepsowe x5
+Przysiady z podskokiem x10
+Deska z unoszeniem ręki 15s na stronę
+Scyzoryki x15
+Wykroki x10
+
+Plan 10:
+Pajacyki z unoszeniem kolan 20s
+Pompki diamentowe x6
+Przysiady na jednej nodze x5 na stronę
+Deska bokiem 20s na stronę
+Brzuszki x20
+Wykroki chodzone x8 na stronę
+
+Plan 11:
+Bieg w miejscu 30s
+Pompki klasyczne x10
+Przysiady x12
+Deska z unoszeniem nogi 15s
+Brzuszki skośne x20 na stronę
+Wykroki boczne x10
+
+Plan 12:
+Marsz w miejscu 20s
+Pompki na szerokość barków x8
+Przysiady sumo x10
+Plank bokiem 20s
+Unoszenie nóg w leżeniu x10
+Pajacyki x20
+
+Plan 13:
+Skip A 25s
+Pompki diamentowe x8
+Przysiady z wyskokiem x12
+Deska bokiem z unoszeniem nóg 15s na stronę
+Russian twists x20
+Wykroki chodzone x10
+
+Plan 14:
+Bieg w miejscu 30s
+Pompki klasyczne x6
+Przysiady na jednej nodze x4 na stronę
+Deska 20s
+Brzuszki skośne x15 na stronę
+Wykroki x12 na stronę
+
+Plan 15:
+Pajacyki 20s
+Pompki tricepsowe x5
+Przysiady z podskokiem x8
+Deska z unoszeniem ręki 15s na stronę
+Scyzoryki x20
+Wykroki boczne x10
+
+Plan 16:
+Skip B 20s
+Pompki na szerokość barków x6
+Przysiady x10
+Deska z unoszeniem nóg 20s
+Brzuszki klasyczne x25
+Pajacyki 25s
+
+Plan 17:
+Bieg w miejscu z wysokim unoszeniem kolan 20s
+Pompki klasyczne x8
+Przysiady sumo x12
+Deska bokiem 20s na stronę
+Russian twists x30
+Wykroki chodzone x10 na stronę
+
+Plan 18:
+Marsz w miejscu 30s
+Pompki tricepsowe x6
+Przysiady z wyskokiem x10
+Deska z unoszeniem ręki 15s na stronę
+Brzuszki x20
+Wykroki boczne x10 na stronę
+
+Plan 19:
+Pajacyki 25s
+Pompki diamentowe x5
+Przysiady na jednej nodze x5 na stronę
+Deska bokiem 20s na stronę
+Scyzoryki x15
+Wykroki x8 na stronę
+
+Plan 20:
+Skip A 20s
+Pompki klasyczne x10
+Przysiady sumo x12
+Plank z unoszeniem nogi 15s na stronę
+Russian twists x20
+Pajacyki 20s
+
+Plan 21:
+Bieg w miejscu 20s
+Pompki na szerokość barków x8
+Przysiady z wyskokiem x10
+Deska bokiem 15s na stronę
+Unoszenie nóg w leżeniu x10
+Wykroki boczne x10
+
+Plan 22:
+Marsz w miejscu 30s
+Pompki tricepsowe x6
+Przysiady na jednej nodze x4 na stronę
+Deska z unoszeniem nóg 20s
+Brzuszki klasyczne x20
+Pajacyki 20s
+
+Plan 23:
+Skip B 20s
+Pompki klasyczne x10
+Przysiady sumo x10
+Plank bokiem z unoszeniem nogi 15s na stronę
+Russian twists x15
+Wykroki chodzone x8 na stronę
+
+Plan 24:
+Pajacyki z wysokim unoszeniem kolan 30s
+Pompki na szerokość barków x8
+Przysiady z wyskokiem x12
+Deska 25s
+Scyzoryki x15
+Wykroki boczne x10 na stronę
+
+Plan 25:
+Bieg w miejscu 20s
+Pompki diamentowe x5
+Przysiady na jednej nodze x5 na stronę
+Deska z unoszeniem ręki 20s na stronę
+Brzuszki skośne x20 na stronę
+Pajacyki 20s
+
+Plan 26:
+Marsz w miejscu 25s
+Pompki klasyczne x10
+Przysiady x12
+Deska bokiem 15s na stronę
+Russian twists x25
+Wykroki chodzone x10
+
+Plan 27:
+Skip A 20s
+Pompki tricepsowe x5
+Przysiady sumo x12
+Deska z unoszeniem nóg 20s
+Scyzoryki x15
+Wykroki boczne x8 na stronę
+
+Plan 28:
+Pajacyki 30s
+Pompki na szerokość barków x8
+Przysiady z wyskokiem x10
+Plank bokiem 20s na stronę
+Brzuszki x20
+Wykroki x10
+
+Plan 29:
+Bieg w miejscu 20s
+Pompki diamentowe x6
+Przysiady na jednej nodze x5 na stronę
+Deska z unoszeniem ręki 20s na stronę
+Russian twists x20
+Pajacyki 20s
+
+Plan 30:
+Marsz w miejscu 30s
+Pompki klasyczne x10
+Przysiady x12
+Deska bokiem z unoszeniem nóg 15s na stronę
+Unoszenie nóg w leżeniu x15
+Wykroki x10 na stronę
