@@ -1,0 +1,25 @@
+Aplikacja Trener i Śledzenie Treningów
+
+
+1. Personalizacja treningów
+   - Użytkownicy mogą wybierać gotowe plany treningowe lub tworzyć własne. Aplikacja śledzi postępy i wyświetla raporty, np. o liczbie wykonanych powtórzeń i spalonych kaloriach.
+
+2.Genertor losowych ćwiczeń dla urozmajcenia zabawy przy ćwiczeniach i usunięcia monotonności.
+
+3. Śledzenie aktywności na świeżym powietrzu (GPS)
+   - Aplikacja wykorzystuje GPS do śledzenia biegów, spacerów czy jazdy na rowerze. Pokazuje dystans, trasę, prędkość oraz spalone kalorie.
+
+4. Gameifikacja i wyzwania
+   - Użytkownicy mogą brać udział w wyzwaniach, zdobywać nagrody i porównywać wyniki z innymi. Aplikacja motywuje do osiągania celów, np. „30-dniowe wyzwanie przysiadów”.
+
+5. Łączenie konta z kontem facebook 
+
+6.Korzystanie z różnych czujników.
+
+
+Wdrożenie w Android Studio:
+1. Integracja czujników: 
+-GPS,
+-Akcelerometr,
+-Zegar (dla pomiaru czasu),
+-Aparat/Kamera.
