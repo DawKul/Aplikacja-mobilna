@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xa205eY38H8m+hqunR4mNcyUiaui91WxFHZQhSyV84Zy5oCGI2BLSPACtlzlfrudhRM5iolxf8l68r5j20jMxw==",
+  "success": false,
+  "projectFilePath": "D:\\Repozytorium mob\\Aplikacja-mobilna\\Aplikacja Treningowa\\Aplikacja Treningowa\\Aplikacja Treningowa.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Wersja platformy nie jest obecna dla co najmniej jednej platformy docelowej, mimo że określono platformę: net8.0-android, net8.0-ios, net8.0-maccatalyst"
+    }
+  ]
+}

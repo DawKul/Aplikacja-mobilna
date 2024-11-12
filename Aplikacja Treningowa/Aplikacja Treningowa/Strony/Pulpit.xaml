@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Aplikacja_Treningowa.Strony.Pulpit"
+            Title="Pulpit"
+            xmlns:android="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.AndroidSpecific;assembly=Microsoft.Maui.Controls"
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            SelectedTabColor="black"
+            BarBackgroundColor="grey"
+            xmlns:local="clr-namespace:Aplikacja_Treningowa.Strony">
+    <local:Strona1 IconImageSource="home.png">
+
+    </local:Strona1>
+
+    <local:Strona2 IconImageSource="user.png">
+
+    </local:Strona2>
+
+    <local:Strona3 IconImageSource="settings.png">
+        
+    </local:Strona3>
+</TabbedPage>
