@@ -17,16 +17,17 @@
                     <Grid Margin="0,30,0,0" ColumnDefinitions="0.2*,0.8*">
                         <RoundRectangle BackgroundColor="#EDEBF6" CornerRadius="10" HeightRequest="60" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="60"/>
                         <Image HorizontalOptions="Center" Source="sign.png"/>
-                        <Entry TextColor="black" Grid.Column="1" Placeholder="Login" VerticalOptions="Center"/>
+                        <Entry x:Name="EmailEntry" TextColor="black" Grid.Column="1" Placeholder="Login" VerticalOptions="Center"/>
                     </Grid>
                     <Grid Margin="0,30,0,0" ColumnDefinitions="0.2*,0.8*">
                         <RoundRectangle BackgroundColor="#EDEBF6" CornerRadius="10" HeightRequest="60" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="60"/>
                         <Image HorizontalOptions="Center" Source="lock.png" />
-                        <Entry TextColor="black" Grid.Column="1" Placeholder="Hasło" VerticalOptions="Center" IsPassword="true"/>
+                        <Entry x:Name="PasswordEntry" TextColor="black" Grid.Column="1" Placeholder="Hasło" VerticalOptions="Center" IsPassword="true"/>
                     </Grid>
-                    <Button Margin="0,20,0,0" BackgroundColor="orange" HeightRequest="60" Text="Zaloguj" TextColor="black"/>
+                    <Button Margin="0,20,0,0" BackgroundColor="orange" HeightRequest="60" Text="Zaloguj" TextColor="black" Clicked="OnLoginClicked"/>
+                    <Button Text="Logowanie biometryczne" Clicked="OnBiometricLoginClicked" />
                     <Label Margin="0,15,0,-10" HorizontalOptions="Center" Text="Zapomniałeś/aś hasła?" TextColor="Blue" TextDecorations="Underline"/>
-                    <Button Margin="0,30,0,0" BackgroundColor="white" HeightRequest="60" Text="Załóż konto" TextColor="#4F3F9B"/>
+                    <Button Margin="0,30,0,0" BackgroundColor="white" HeightRequest="60" Text="Załóż konto" TextColor="#4F3F9B" Clicked="OnButtonClicked"/>
                 </VerticalStackLayout>
             </Grid>
         </Grid>

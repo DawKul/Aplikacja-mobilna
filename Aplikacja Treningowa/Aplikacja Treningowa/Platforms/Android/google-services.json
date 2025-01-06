@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155779449370",
+    "project_id": "aplikacja-treningowa-637d7",
+    "storage_bucket": "aplikacja-treningowa-637d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155779449370:android:8041acad8f4dd1d16dc7a3",
+        "android_client_info": {
+          "package_name": "com.aplikacja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPyXGFi7TOGdCT7IrWn-hKTAt17M16pkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

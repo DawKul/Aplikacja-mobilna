@@ -3,14 +3,24 @@
     x:Class="Aplikacja_Treningowa.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:Aplikacja_Treningowa"
+    xmlns:local="clr-namespace:Aplikacja_Treningowa.Strony"
     Shell.FlyoutBehavior="Disabled"
     Title="Aplikacja_Treningowa">
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+    <TabBar>
+        <Tab >
+            <ShellContent
+    ContentTemplate="{DataTemplate local:Strona1}"/>
+        </Tab>
+        <Tab >
+            <ShellContent
+ContentTemplate="{DataTemplate local:Strona2}"/>
+        </Tab>
+        <Tab >
+            <ShellContent
+ContentTemplate="{DataTemplate local:Strona3}"/>
+        </Tab>
+    </TabBar>
 
-    
+
 </Shell>
