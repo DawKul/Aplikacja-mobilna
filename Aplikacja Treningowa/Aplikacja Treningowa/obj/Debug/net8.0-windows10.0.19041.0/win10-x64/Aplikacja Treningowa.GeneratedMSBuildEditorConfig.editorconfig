@@ -8,7 +8,7 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Aplikacja_Treningowa
-build_property.ProjectDir = C:\Users\-\Desktop\klon\Aplikacja-mobilna\Aplikacja Treningowa\Aplikacja Treningowa\
+build_property.ProjectDir = C:\Users\Grzegorz\Desktop\newshit\Aplikacja-mobilna\Aplikacja Treningowa\Aplikacja Treningowa\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTAotOptimizerEnabled = true
@@ -22,61 +22,61 @@ build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/-/Desktop/klon/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/App.xaml]
+[C:/Users/Grzegorz/Desktop/newshit/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Aplikacja_Treningowa.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/-/Desktop/klon/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/AppShell.xaml]
+[C:/Users/Grzegorz/Desktop/newshit/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Aplikacja_Treningowa.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/-/Desktop/klon/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/MainPage.xaml]
+[C:/Users/Grzegorz/Desktop/newshit/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Aplikacja_Treningowa.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/-/Desktop/klon/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/Resources/Styles/Colors.xaml]
+[C:/Users/Grzegorz/Desktop/newshit/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Aplikacja_Treningowa.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/-/Desktop/klon/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/Resources/Styles/Styles.xaml]
+[C:/Users/Grzegorz/Desktop/newshit/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Aplikacja_Treningowa.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/-/Desktop/klon/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/Strony/Pulpit.xaml]
+[C:/Users/Grzegorz/Desktop/newshit/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/Strony/Pulpit.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Aplikacja_Treningowa.Strony.Pulpit.xaml
 build_metadata.AdditionalFiles.TargetPath = Strony\Pulpit.xaml
 build_metadata.AdditionalFiles.RelativePath = Strony\Pulpit.xaml
 
-[C:/Users/-/Desktop/klon/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/Strony/Rejestracja.xaml]
+[C:/Users/Grzegorz/Desktop/newshit/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/Strony/Rejestracja.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Aplikacja_Treningowa.Strony.Rejestracja.xaml
 build_metadata.AdditionalFiles.TargetPath = Strony\Rejestracja.xaml
 build_metadata.AdditionalFiles.RelativePath = Strony\Rejestracja.xaml
 
-[C:/Users/-/Desktop/klon/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/Strony/Strona1.xaml]
+[C:/Users/Grzegorz/Desktop/newshit/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/Strony/Strona1.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Aplikacja_Treningowa.Strony.Strona1.xaml
 build_metadata.AdditionalFiles.TargetPath = Strony\Strona1.xaml
 build_metadata.AdditionalFiles.RelativePath = Strony\Strona1.xaml
 
-[C:/Users/-/Desktop/klon/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/Strony/Strona2.xaml]
+[C:/Users/Grzegorz/Desktop/newshit/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/Strony/Strona2.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Aplikacja_Treningowa.Strony.Strona2.xaml
 build_metadata.AdditionalFiles.TargetPath = Strony\Strona2.xaml
 build_metadata.AdditionalFiles.RelativePath = Strony\Strona2.xaml
 
-[C:/Users/-/Desktop/klon/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/Strony/Strona3.xaml]
+[C:/Users/Grzegorz/Desktop/newshit/Aplikacja-mobilna/Aplikacja Treningowa/Aplikacja Treningowa/Strony/Strona3.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Aplikacja_Treningowa.Strony.Strona3.xaml
 build_metadata.AdditionalFiles.TargetPath = Strony\Strona3.xaml
