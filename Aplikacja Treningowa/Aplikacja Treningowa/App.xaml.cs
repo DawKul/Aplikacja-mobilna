@@ -7,7 +7,7 @@ namespace Aplikacja_Treningowa
         {
             InitializeComponent();
 
-            MainPage = new Pulpit();
+            MainPage = new AppShell();
         }
     }
 }

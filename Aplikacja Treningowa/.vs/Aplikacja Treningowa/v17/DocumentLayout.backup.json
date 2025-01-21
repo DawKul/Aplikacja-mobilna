@@ -1,42 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\",
+  "WorkspaceRootPath": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\udp-main\\udp-main\\aplikacja treningowa\\aplikacja treningowa\\strony\\pulpit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\strony\\pulpit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\strony\\strona2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\strony\\strona2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\udp-main\\udp-main\\aplikacja treningowa\\aplikacja treningowa\\strony\\pulpit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\strony\\pulpit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\strony\\strona1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\strony\\strona1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\udp-main\\udp-main\\aplikacja treningowa\\aplikacja treningowa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\strony\\strona1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\strony\\strona1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\udp-main\\udp-main\\aplikacja treningowa\\aplikacja treningowa\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\udp-main\\udp-main\\aplikacja treningowa\\aplikacja treningowa\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\udp-main\\udp-main\\aplikacja treningowa\\aplikacja treningowa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\udp-main\\udp-main\\aplikacja treningowa\\aplikacja treningowa\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\udp-main\\udp-main\\aplikacja treningowa\\aplikacja treningowa\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\strony\\strona3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\strony\\strona3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\udp-main\\udp-main\\aplikacja treningowa\\aplikacja treningowa\\aplikacja treningowa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\strony\\strona3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\strony\\strona3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\strony\\strona2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\strony\\strona2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\strony\\rejestracja.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\strony\\rejestracja.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\strony\\rejestracja.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\strony\\rejestracja.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\aplikacja treningowa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\aplikacja treningowa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Grzegorz\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.83\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|c:\\users\\dawid\\desktop\\aplikacja-mobilna-dawiddjapierdol\\aplikacja-mobilna-dawidd\\aplikacja treningowa\\aplikacja treningowa\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9AFDBFA-9AD0-48DA-B4F6-F94F3F745998}|Aplikacja Treningowa\\Aplikacja Treningowa.csproj|solutionrelative:aplikacja treningowa\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,124 +85,248 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1723005412:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Strona3.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Strona3.xaml",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\Strony\\Strona3.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Strona3.xaml",
+              "RelativeToolTip": "Aplikacja Treningowa\\Strony\\Strona3.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-21T11:25:59.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rejestracja.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Rejestracja.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\Strony\\Rejestracja.xaml.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Rejestracja.xaml.cs",
+              "RelativeToolTip": "Aplikacja Treningowa\\Strony\\Rejestracja.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:39:13.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rejestracja.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Rejestracja.xaml",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\Strony\\Rejestracja.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Rejestracja.xaml",
+              "RelativeToolTip": "Aplikacja Treningowa\\Strony\\Rejestracja.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-06T14:39:15.535Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pulpit.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Pulpit.xaml.cs",
-              "RelativeDocumentMoniker": "Aplikacja Treningowa\\Strony\\Pulpit.xaml.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Pulpit.xaml.cs",
-              "RelativeToolTip": "Aplikacja Treningowa\\Strony\\Pulpit.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Title": "Strona2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Strona2.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\Strony\\Strona2.xaml.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Strona2.xaml.cs",
+              "RelativeToolTip": "Aplikacja Treningowa\\Strony\\Strona2.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:31:53.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pulpit.xaml",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Pulpit.xaml",
-              "RelativeDocumentMoniker": "Aplikacja Treningowa\\Strony\\Pulpit.xaml",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Pulpit.xaml",
-              "RelativeToolTip": "Aplikacja Treningowa\\Strony\\Pulpit.xaml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-05T09:31:51.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Aplikacja Treningowa\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\MainPage.xaml.cs",
-              "RelativeToolTip": "Aplikacja Treningowa\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:03:52.264Z",
+              "WhenOpened": "2025-01-06T14:18:22.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\MainPage.xaml",
-              "RelativeDocumentMoniker": "Aplikacja Treningowa\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\MainPage.xaml",
-              "RelativeToolTip": "Aplikacja Treningowa\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-05T09:03:53.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\App.xaml",
-              "RelativeDocumentMoniker": "Aplikacja Treningowa\\App.xaml",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\App.xaml",
-              "RelativeToolTip": "Aplikacja Treningowa\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-05T09:00:16.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "Aplikacja Treningowa\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\AppShell.xaml.cs",
               "RelativeToolTip": "Aplikacja Treningowa\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T08:59:40.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\App.xaml.cs",
-              "RelativeDocumentMoniker": "Aplikacja Treningowa\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\App.xaml.cs",
-              "RelativeToolTip": "Aplikacja Treningowa\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T08:57:45.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T08:59:40.374Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\AppShell.xaml",
-              "RelativeDocumentMoniker": "Aplikacja Treningowa\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\AppShell.xaml",
-              "RelativeToolTip": "Aplikacja Treningowa\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\App.xaml.cs",
+              "RelativeToolTip": "Aplikacja Treningowa\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:57:45.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Aplikacja Treningowa.csproj",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Aplikacja Treningowa.csproj",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\Aplikacja Treningowa.csproj",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Aplikacja Treningowa.csproj",
+              "RelativeToolTip": "Aplikacja Treningowa\\Aplikacja Treningowa.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T08:55:45.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Strona1.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Strona1.xaml",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\Strony\\Strona1.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Strona1.xaml",
+              "RelativeToolTip": "Aplikacja Treningowa\\Strony\\Strona1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-05T08:57:40.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T14:16:41.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\AppShell.xaml",
+              "RelativeToolTip": "Aplikacja Treningowa\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T08:57:40.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Strona3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Strona3.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\Strony\\Strona3.xaml.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Strona3.xaml.cs",
+              "RelativeToolTip": "Aplikacja Treningowa\\Strony\\Strona3.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:26:04.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Strona1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Strona1.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\Strony\\Strona1.xaml.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Strona1.xaml.cs",
+              "RelativeToolTip": "Aplikacja Treningowa\\Strony\\Strona1.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:20:00.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\Grzegorz\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.83\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Grzegorz\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.83\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\Grzegorz\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.83\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Grzegorz\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.83\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AgIAAF4CAAAAAAAAAAAqwG8CAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-06T14:36:11.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Aplikacja Treningowa\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:30:03.41Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Aplikacja Treningowa.csproj",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\Aplikacja Treningowa.csproj",
-              "RelativeDocumentMoniker": "Aplikacja Treningowa\\Aplikacja Treningowa.csproj",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\UDP-main\\UDP-main\\Aplikacja Treningowa\\Aplikacja Treningowa\\Aplikacja Treningowa.csproj",
-              "RelativeToolTip": "Aplikacja Treningowa\\Aplikacja Treningowa.csproj",
+              "Title": "Strona2.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Strona2.xaml",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\Strony\\Strona2.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Strony\\Strona2.xaml",
+              "RelativeToolTip": "Aplikacja Treningowa\\Strony\\Strona2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-06T14:16:42.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Aplikacja Treningowa\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:29:50.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\App.xaml",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\App.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\App.xaml",
+              "RelativeToolTip": "Aplikacja Treningowa\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-05T08:55:45.622Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T09:00:16.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\MauiProgram.cs",
+              "RelativeToolTip": "Aplikacja Treningowa\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:34:44.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\MainPage.xaml.cs",
+              "RelativeToolTip": "Aplikacja Treningowa\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwBAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:03:52.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Aplikacja Treningowa\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Aplikacja-mobilna-DawidDJapierdol\\Aplikacja-mobilna-DawidD\\Aplikacja Treningowa\\Aplikacja Treningowa\\MainPage.xaml",
+              "RelativeToolTip": "Aplikacja Treningowa\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T09:03:53.314Z"
             }
           ]
         }
